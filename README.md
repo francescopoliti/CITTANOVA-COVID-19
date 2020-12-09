@@ -17,7 +17,7 @@ Nei positivi sono inclusi sia i soggetti risultati positivi al tampone molecolar
 
 _______
 
-![Image text](http://www.cittanovaonline.it/repository/logo_covid.png)
+![Image text](http://www.cittanovaonline.it/repository/logo_covid1.png)
 
 Licenza Creative Commons CC BY-ND
 
