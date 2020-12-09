@@ -1,3 +1,6 @@
+![Image text](http://www.cittanovaonline.it/repository/report_covid_19.png)
+
+
 Andamento dei contagi giornalieri nel comune di Cittanova, un comune compreso nella Città Metropolitana di Reggio Calabria. 
 
 Fonte Dati: Comune di Cittanova 
@@ -15,7 +18,7 @@ Nei positivi sono inclusi sia i soggetti risultati positivi al tampone molecolar
 _______
 Licenza Creative Commons CC BY-ND
 
-La licenza CC BY-ND Permette di distribuire l'opera originale senza alcuna modifica, anche a scopi commerciali, a condizione che venga riconosciuta una menzione di paternità adeguata.
+La licenza CC BY-ND permette di distribuire l'opera originale senza alcuna modifica, anche a scopi commerciali, a condizione che venga riconosciuta una menzione di paternità adeguata.
 
 	
 
