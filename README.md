@@ -20,6 +20,6 @@ Licenza Creative Commons CC BY-ND
 
 La licenza CC BY-ND permette di distribuire l'opera originale senza alcuna modifica, anche a scopi commerciali, a condizione che venga riconosciuta una menzione di paternità adeguata.
 
-	
+![Image text](http://www.cittanovaonline.it/repository/cc_by_nd.png)	
 
 
