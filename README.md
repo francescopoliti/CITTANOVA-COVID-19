@@ -1,4 +1,4 @@
-![Image text](http://www.cittanovaonline.it/repository/report_covid_19_1.png)
+![Image text](http://www.cittanovaonline.it/repository/report_covid_19_2.png)
 
 
 Andamento dei contagi giornalieri nel comune di Cittanova, un comune compreso nella Città Metropolitana di Reggio Calabria. 
