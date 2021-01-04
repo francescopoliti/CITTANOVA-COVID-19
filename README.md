@@ -1,5 +1,5 @@
 
-Andamento dei contagi giornalieri nel comune di Cittanova, un comune compreso nella Citt‡ Metropolitana di Reggio Calabria. 
+Andamento dei contagi giornalieri nel comune di Cittanova, un comune compreso nella Citt√† Metropolitana di Reggio Calabria. 
 
 Fonte Dati: Comune di Cittanova 
 
@@ -11,7 +11,7 @@ Agente Patogeno: Covid-19
 
 
 _______
-Nei positivi sono inclusi sia i soggetti risultati positivi al tampone molecolare che quelli risultati positivi al tampone antigenico.
+Il campo `Attualmente positivi` comprende sia i soggetti che sono risultati positivi al tampone molecolare che quelli risultati positivi al tampone antigenico.
 
 _______
 
@@ -19,7 +19,7 @@ _______
 
 Licenza Creative Commons CC BY-ND
 
-La licenza CC BY-ND permette di distribuire l'opera originale senza alcuna modifica, anche a scopi commerciali, a condizione che venga riconosciuta una menzione di paternit‡ adeguata.
+La licenza CC BY-ND permette di distribuire l'opera originale senza alcuna modifica, anche a scopi commerciali, a condizione che venga riconosciuta una menzione di paternit√† adeguata.
 
 ![Image text](http://www.cittanovaonline.it/repository/cc_by_nd.png)	
 
