@@ -1,5 +1,11 @@
 
-Andamento dei contagi giornalieri nel comune di Cittanova, un comune compreso nella Città Metropolitana di Reggio Calabria. 
+# Andamento dei contagi giornalieri nel comune di Cittanova # 
+
+## Ubicazione ##
+
+Cittanova è un comune calabrese, compreso nella Città Metropolitana di Reggio Calabria. 
+
+## Dati ##
 
 Fonte Dati: Comune di Cittanova 
 
@@ -14,9 +20,7 @@ _______
 Il campo `Attualmente positivi` comprende sia i soggetti che sono risultati positivi al tampone molecolare che quelli risultati positivi al tampone antigenico.
 _______
 
-<BR><ul>
-<li>separatore di campo: <code>,</code></li>
-</ul><BR>
+- separatore di campo: `,`
 _______<BR>
 <BR>
 
