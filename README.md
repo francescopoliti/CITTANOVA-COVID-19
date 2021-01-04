@@ -21,6 +21,7 @@ Il campo `Attualmente positivi` comprende sia i soggetti che sono risultati posi
 _______
 
 - separatore di campo: `,`
+<BR>
 _______<BR>
 <BR>
 
