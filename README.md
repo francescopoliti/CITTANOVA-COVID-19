@@ -12,11 +12,12 @@ Agente Patogeno: Covid-19
 
 _______
 Il campo `Attualmente positivi` comprende sia i soggetti che sono risultati positivi al tampone molecolare che quelli risultati positivi al tampone antigenico.
-
-<ul>
-<li>separatore di campo: <code>,</code></li>
-</ul>
 _______
+
+<BR><ul>
+<li>separatore di campo: <code>,</code></li>
+</ul><BR>
+
 
 ![Image text](http://www.cittanovaonline.it/repository/logo_covid.png)
 
