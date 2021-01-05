@@ -28,7 +28,7 @@ Positivi Tampone Molecolare | Numero degli attuali soggetti risultati positivi a
 Positivi Tampone Antigenico | Numero degli attuali soggetti risultati positivi al tampone antigenico | Numero intero
 Guariti | Numero totale dei soggetti guariti fino alla data del report | Numero intero
 Deceduti | Numero totale dei soggetti deceduti fino alla data del report | Numero intero
-Attualmente Positivi | Numero totale ancora positivi alla data del report | Numero intero
+Attualmente Positivi | Numero totale dei soggetti ancora positivi alla data del report | Numero intero
 Totale | Numero totale dei soggetti contagiati dal Covid-19 fino alla data del report | Numero intero
 
 _______
@@ -36,18 +36,23 @@ Il campo `Attualmente positivi` comprende sia i soggetti che sono risultati posi
 _______
 
 - separatore di campo: `,`
+- encoding: `UTF-8`
 <BR>
 _______<BR>
 <BR>
 
+## Licenza ##
 
+Il dataset è rilasciato con licenza [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.it).
 
-![Image text](http://www.cittanovaonline.it/repository/logo_covid.png)
 
 Licenza Creative Commons CC BY-ND
 
 La licenza CC BY-ND permette di distribuire l'opera originale senza alcuna modifica, anche a scopi commerciali, a condizione che venga riconosciuta una menzione di paternità adeguata.
 
-![Image text](http://www.cittanovaonline.it/repository/cc_by_nd.png)	
+![Image text](http://www.cittanovaonline.it/repository/cc_by_nd.png)
+
+<p align="cente">
+![Image text](http://www.cittanovaonline.it/repository/logo_covid.png)	
 
 
