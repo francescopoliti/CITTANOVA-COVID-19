@@ -41,6 +41,8 @@ _______
 _______<BR>
 <BR>
 
+![Image text](http://www.cittanovaonline.it/repository/logo_covid.png)
+
 ## Licenza ##
 
 Il dataset è rilasciato con licenza [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.it).
@@ -52,7 +54,6 @@ La licenza CC BY-ND permette di distribuire l'opera originale senza alcuna modif
 
 ![Image text](http://www.cittanovaonline.it/repository/cc_by_nd.png)
 
-<p align="cente">
-![Image text](http://www.cittanovaonline.it/repository/logo_covid.png)	
+
 
 
