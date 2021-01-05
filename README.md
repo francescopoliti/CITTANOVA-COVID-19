@@ -19,7 +19,17 @@ Agente Patogeno: Covid-19
 
 ### File DATI_GIORNALIERI_COVID-19.csv ###
 
-Questo file riporta, nei campi, i dati contenuti nei report quotidiani diramati dal comune di Cittanova (positivi tampone molecolare, positivi tampone antigenico, guariti, deceduti, totale)
+Questo file riporta, nei campi, i dati contenuti nei report quotidiani diramati dal comune di Cittanova (positivi tampone molecolare, positivi tampone antigenico, guariti, deceduti, totale)<BR>
+
+Nome del campo | Descrizione | Formato 
+-------------- | ----------- | ------- 
+Data | Data del report giornaliero | Data 
+Positivi Tampone Molecolare | Numero degli attuali soggetti risultati positivi al tampone molecolare | Numero intero 
+Positivi Tampone Antigenico | Numero degli attuali soggetti risultati positivi al tampone antigenico | Numero intero
+Guariti | Numero totale dei soggetti guariti fino alla data del report | Numero intero
+Deceduti | Numero totale dei soggetti deceduti fino alla data del report | Numero intero
+Attualmente Positivi | Numero totale ancora positivi alla data del report | Numero intero
+Totale | Numero totale dei soggetti contagiati dal Covid-19 fino alla data del report | Numero intero
 
 _______
 Il campo `Attualmente positivi` comprende sia i soggetti che sono risultati positivi al tampone molecolare che quelli risultati positivi al tampone antigenico.
