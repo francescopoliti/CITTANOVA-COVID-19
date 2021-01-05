@@ -37,7 +37,6 @@ _______
 
 - separatore di campo: `,`
 - encoding: `UTF-8`
-<BR>
 _______<BR>
 <BR>
 
@@ -45,7 +44,7 @@ _______<BR>
 
 ## Licenza ##
 
-Il dataset è rilasciato con licenza [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.it).
+Il dataset è rilasciato con licenza [CC-BY-ND-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.it).
 
 
 Licenza Creative Commons CC BY-ND
