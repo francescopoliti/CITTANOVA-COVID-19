@@ -37,7 +37,7 @@ _______
 
 - separatore di campo: `,`
 - encoding: `UTF-8`
-_______<BR>
+<BR>
 <BR>
 
 ![Image text](http://www.cittanovaonline.it/repository/logo_covid.png)
