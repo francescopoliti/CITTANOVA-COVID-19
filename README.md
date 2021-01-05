@@ -24,8 +24,8 @@ Questo file riassume i dati contenuti nel report quotidiano, Emergenza Covid-19,
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
 Data | Data del report giornaliero | Data 
-Positivi Tampone Molecolare | Numero degli attuali soggetti risultati positivi al tampone molecolare | Numero intero 
-Positivi Tampone Antigenico | Numero degli attuali soggetti risultati positivi al tampone antigenico | Numero intero
+Positivi Tampone Molecolare | Numero dei soggetti che risultano alla data del report positivi al tampone molecolare | Numero intero 
+Positivi Tampone Antigenico | Numero dei soggetti che risultano alla data del report positivi al tampone antigenico | Numero intero
 Guariti | Numero totale dei soggetti guariti fino alla data del report | Numero intero
 Deceduti | Numero totale dei soggetti deceduti fino alla data del report | Numero intero
 Attualmente Positivi | Numero totale dei soggetti ancora positivi alla data del report | Numero intero
