@@ -54,5 +54,18 @@ La licenza CC BY-ND permette di distribuire l'opera originale senza alcuna modif
 ![Image text](http://www.cittanovaonline.it/repository/cc_by_nd.png)
 
 
+### Se usi questi dati
+
+Se usi questi dati, indicalo per favore in qesta modalità:
+
+> <b>Comune di Cittanova, COVID-19</b> - Fonte: <a href='https://github.com/francescopoliti/CITTANOVA-COVID-19' target='_blank'>Contagi Giornalieri - Comune di Cittanova</a> con i dati pubblicati dal Comune di Cittanova)
+
+Qui il codice HTML che puoi incollare nel tuo sito/mappa/dashboard;
+
+```html
+<b>Comune di Cittanova, COVID-19</b> - Fonte: <a target="_blank" href='https://github.com/francescopoliti/CITTANOVA-COVID-19' target='_blank'>Contagi Giornalieri - Comune di Cittanova</a>
+con i dati pubblicati dal Comune di Cittanova.
+Licenza <a target="_blank" href="https://creativecommons.org/licenses/by-nd/4.0/deed.it">CC BY ND 4.0</a>
+```
 
 
