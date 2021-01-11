@@ -19,7 +19,7 @@ Agente Patogeno: Covid-19
 
 ### File DATI_GIORNALIERI_COVID-19.csv ###
 
-Questo file riassume i dati contenuti nel report quotidiano, Emergenza Covid-19, diramato alle ore 21.00 dal comune di Cittanova, Città Metropolitana di Reggio Calabria.<BR>
+Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19, diramati dal comune di Cittanova, Città Metropolitana di Reggio Calabria.<BR>
 
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
