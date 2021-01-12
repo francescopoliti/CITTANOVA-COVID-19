@@ -38,9 +38,9 @@ _______
 - separatore di campo: `,`
 - encoding: `UTF-8`
 <BR><BR>
-
+<center>
 ![Image text](http://www.cittanovaonline.it/repository/logo_covid.png)
-
+</center>
 <BR><BR>
 I dati sono stati elaborati con software `Open Source`. Favoriamo lo sviluppo, la diffusione e la tutela del software libero e la diffusione degli ***Open Data***.
 <BR><BR>
