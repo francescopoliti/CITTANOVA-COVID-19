@@ -43,23 +43,23 @@ _______
 
 ### File `Cittanova_variazioni_covid-19-last_phase.png` ###
 
-Questo file è una immagine che rappresenta l'andamento del contagio da Covid-19, mediante grafici provvisti di etichette, nell'ultimo periodo.
+Questo file è una immagine raster, con estensione png, che rappresenta l'andamento del contagio da Covid-19, mediante grafici provvisti di etichette, nell'ultimo periodo.
 
 ### File `Cittanova_variazioni_covid-19-nuovi_casi.png` ###
 
-Questo file è una immagine che rappresenta, graficamente, l'incremento giornaliero del totale dei positivi, ai tamponi molecolari e antigenici, dal 2 novembre 2020.
+Questo file è una immagine raster, con estensione png, che rappresenta graficamente l'incremento giornaliero del totale dei positivi, ai tamponi molecolari e antigenici, dal 2 novembre 2020.
 
 ### File `Cittanova_variazioni_covid-19-second_wave.png` ###
 
-Questo file è una immagine che rappresenta, mediante grafici provvisti di etichette, il riepilogo complessivo dei dati dal 2 novembre 2020 al 27 dicembre 2020.
+Questo file è una immagine raster, con estensione png, che rappresenta, mediante grafici provvisti di etichette, il riepilogo complessivo dei dati dal 2 novembre 2020 al 27 dicembre 2020.
 
 ### File `Cittanova_variazioni_covid-19-third_wave.png` ###
 
-Questo file è una immagine che rappresenta, mediante grafici provvisti di etichette, il riepilogo complessivo dei dati dal 27 dicembre 2020 al 23 febbraio 2021.
+Questo file è una immagine raster, con estensione png, che rappresenta, mediante grafici provvisti di etichette, il riepilogo complessivo dei dati dal 27 dicembre 2020 al 23 febbraio 2021.
 
 ### File `Cittanova_variazioni_covid-19.png` ###
 
-Questo file è una immagine che rappresenta mediante grafici, il riepilogo complessivo dei dati divulgati, dal 2 novembre 2020 fino alla data dell'ultimo report quotidiano pubblicato.
+Questo file è una immagine raster, con estensione png, che rappresenta mediante grafici, il riepilogo complessivo dei dati divulgati, dal 2 novembre 2020 fino alla data dell'ultimo report quotidiano pubblicato.
 <BR><BR>
 _______
 <BR>
@@ -69,6 +69,8 @@ _______
 
 <BR><BR>
 I dati sono stati elaborati con software `Open Source`. Favoriamo lo sviluppo, la diffusione e la tutela del software libero e la diffusione degli ***Open Data***.<BR>
+Con il termine Open Data si fa riferimento ad alcuni tipi di dati (informazioni, dati numerici, ecc.) che possono essere liberamente utilizzati, riutilizzati e redistribuiti, secondo le indicazioni presenti nella licenza d’uso.<BR>
+<BR>
 Se stai visualizzando questo repository su un dispositivo mobile per espandere la lista dei files disponibili cliccare su "View code".
 <BR><BR>
 
