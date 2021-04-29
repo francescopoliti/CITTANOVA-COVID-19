@@ -19,11 +19,11 @@ Agente Patogeno: Covid-19
 
 ### File `DATI_GIORNALIERI_COVID-19.csv` ###
 
-Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19, diramati dal comune di Cittanova, Città Metropolitana di Reggio Calabria.<BR>
+Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19, diramati dal Comune di Cittanova, Città Metropolitana di Reggio Calabria.<BR>
 
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
-Data | Data del report giornaliero | Data 
+Data | Data del report giornaliero | DD/MM/YYYY 
 Positivi Tampone Molecolare | Numero totale dei soggetti che risultano alla data del report positivi al tampone molecolare | Numero intero 
 Positivi Tampone Antigenico | Numero totale dei soggetti che risultano alla data del report positivi al tampone antigenico | Numero intero
 Guariti | Numero totale dei soggetti guariti fino alla data del report | Numero intero
@@ -68,10 +68,10 @@ _______
 ![Image text](http://www.cittanovaonline.it/repository/logo_covid.png)
 
 <BR><BR>
-I dati sono stati elaborati con software `Open Source`. Favoriamo lo sviluppo, la diffusione e la tutela del software libero e la diffusione degli ***Open Data***.<BR>
+I dati sono stati elaborati con l'utilizzo di software `Open Source`. Favoriamo lo sviluppo, la diffusione e la tutela del software libero e la diffusione degli ***Open Data***.<BR>
 Con il termine Open Data si fa riferimento ad alcuni tipi di dati (informazioni, dati numerici, ecc.) che possono essere liberamente utilizzati, riutilizzati e redistribuiti, secondo le indicazioni presenti nella licenza d’uso.<BR>
 <BR>
-Se stai visualizzando questo repository su un dispositivo mobile per espandere la lista dei files disponibili cliccare su "View code".
+Se stai visualizzando questo repository su un dispositivo mobile per espandere la lista dei files disponibili clicca su "View code".
 <BR><BR>
 
 ## Licenza ##
