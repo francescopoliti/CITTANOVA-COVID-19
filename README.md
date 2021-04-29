@@ -7,7 +7,7 @@ Cittanova è un comune calabrese di 10.000 abitanti, compreso nella Città Metro
 
 ## Dati ##
 
-Fonte Dati: [Comune di Cittanova](https://cittanova.asmenet.it/)
+Fonte Dati: [Comune di Cittanova](http://cittanova.asmenet.it/)
 
 Elaborazione dati: ing. Francesco Politi
 
