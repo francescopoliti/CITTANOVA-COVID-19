@@ -41,6 +41,10 @@ _______
 
 ## Altri files ##
 
+### File `Cittanova_variazioni_covid-19-incidenza_settimanale.png` ###
+
+Questo file è una immagine raster, con estensione png, che rappresenta l'andamento dell' incidenza settimanale dei nuovi casi Covid-19 standardizzata per 100.000 abitanti = (N. totale di casi degli ultimi 7 giorni / Popolazione residente) x 100.000.
+
 ### File `Cittanova_variazioni_covid-19-last_phase.png` ###
 
 Questo file è una immagine raster, con estensione png, che rappresenta l'andamento del contagio da Covid-19, mediante grafici provvisti di etichette, nell'ultimo periodo.
