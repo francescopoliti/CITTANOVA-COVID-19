@@ -23,7 +23,7 @@ Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19,
 
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
-Data | Data del report giornaliero | DD MM YYYY 
+Data | Data del report giornaliero | DD/MM/YYYY 
 Positivi Tampone Molecolare | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone molecolare | Numero intero 
 Positivi Tampone Antigenico | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone antigenico | Numero intero
 Guariti | Numero totale dei soggetti guariti fino alla data del report | Numero intero
