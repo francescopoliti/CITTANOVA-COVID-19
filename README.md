@@ -23,7 +23,7 @@ Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19,
 
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
-Data | Data del report giornaliero | DD/MM/YYYY 
+Data | Data del report giornaliero | DD MM YYYY 
 Positivi Tampone Molecolare | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone molecolare | Numero intero 
 Positivi Tampone Antigenico | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone antigenico | Numero intero
 Guariti | Numero totale dei soggetti guariti fino alla data del report | Numero intero
@@ -39,11 +39,25 @@ _______
 - encoding: `UTF-8`
 <BR><BR>
 
+### File `NUOVI_CASI_E_INCIDENZA_SETTIMANALE.csv` ###
+
+Questo file riassume l'indice di incidenza settimanale standardizzato per 100.000 abitanti = (N. totale di casi degli ultimi 7 giorni / Popolazione residente) x 100.000.<BR>
+
+Nome del campo | Descrizione | Formato 
+-------------- | ----------- | ------- 
+Data | Data del report giornaliero | DD/MM/YYYY 
+Nuovi positivi | Numero di nuovi casi registrati quotidianamente | Numero intero
+Incidenza Settimanale per 100.000 abitanti | Indice di incidenza settimanale standardizzato | Numero decimale
+
+- separatore di campo: `,`
+- encoding: `UTF-8`
+<BR><BR>
+
 ## Altri files ##
 
 ### File `Cittanova_variazioni_covid-19-incidenza_settimanale.png` ###
 
-Questo file è una immagine raster, con estensione png, che rappresenta l'andamento dell' incidenza settimanale dei nuovi casi Covid-19 standardizzata per 100.000 abitanti = (N. totale di casi degli ultimi 7 giorni / Popolazione residente) x 100.000.
+Questo file è una immagine raster, con estensione png, che rappresenta l'andamento dell' incidenza settimanale dei nuovi casi Covid-19, standardizzata per 100.000 abitanti = (N. totale di casi degli ultimi 7 giorni / Popolazione residente) x 100.000.
 
 ### File `Cittanova_variazioni_covid-19-last_phase.png` ###
 
