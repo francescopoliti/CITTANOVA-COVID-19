@@ -3,7 +3,7 @@
 
 ## Ubicazione ##
 
-Cittanova è un comune calabrese di 9.970 abitanti, compreso nella Città Metropolitana di Reggio Calabria. 
+Cittanova è un comune calabrese di 9.970 abitanti (dato provvisorio Bilancio Demografico ISTAT, 31 dicembre 2020), compreso nella Città Metropolitana di Reggio Calabria. 
 
 ## Dati ##
 
@@ -23,7 +23,7 @@ Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19,
 
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
-Data | Data del report giornaliero | DD/MM/YYYY 
+Data | Data del report | DD/MM/YYYY 
 Positivi Tampone Molecolare | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone molecolare | Numero intero 
 Positivi Tampone Antigenico | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone antigenico | Numero intero
 Guariti | Numero totale dei soggetti guariti fino alla data del report | Numero intero
@@ -41,7 +41,8 @@ _______
 
 ### File `NUOVI_CASI_E_INCIDENZA_SETTIMANALE.csv` ###
 
-Questo file riassume l'indice di incidenza settimanale standardizzato per 100.000 abitanti = (N. totale di casi degli ultimi 7 giorni / Popolazione residente) x 100.000.<BR>
+Questo file riassume l'indice di incidenza settimanale standardizzato per 100.000 abitanti = (N. totale di casi degli ultimi 7 giorni / Popolazione residente) x 100.000.<BR><BR>
+Popolazione residente: 10.028 (popolazione residente al 1° Gennaio 2020, dato ufficiale ISTAT)<BR>
 
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
