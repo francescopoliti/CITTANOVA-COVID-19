@@ -11,7 +11,7 @@ Fonte Dati: [Comune di Cittanova](http://cittanova.asmenet.it/)
 
 Elaborazione dati: [ing. Francesco Politi](http://www.cittanovaonline.it/francesco_politi/)
 
-Inizio decorrenza dati: 22 novembre 2020
+Inizio decorrenza dati: 2 novembre 2020
 
 Agente Patogeno: Covid-19
 
