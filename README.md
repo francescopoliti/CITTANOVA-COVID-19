@@ -7,7 +7,7 @@ Cittanova è un comune calabrese di 9.977 abitanti (dato provvisorio Bilancio De
 
 ## Dati ##
 
-Fonte Dati: [Comune di Cittanova](http://cittanova.asmenet.it/)
+Fonte Dati: [Comune di Cittanova](http://www.comune.cittanova.rc.it/)
 
 Elaborazione dati: [ing. Francesco Politi](http://www.cittanovaonline.it/francesco_politi/)
 
