@@ -56,7 +56,7 @@ Incidenza Settimanale per 100.000 abitanti | Indice di incidenza settimanale sta
 
 ## Altri files ##
 
-### File `incidenza_settimanale_Cittanova_variazioni_covid-19.png` ###
+### File `Incidenza_settimanale_Cittanova_variazioni_covid-19.png` ###
 
 Questo file è una immagine raster, con estensione png, che rappresenta l'andamento dell' incidenza settimanale dei nuovi casi Covid-19, standardizzata per 100.000 abitanti = (N. totale di casi degli ultimi 7 giorni / Popolazione residente) x 100.000.
 
