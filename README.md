@@ -90,7 +90,7 @@ _______
 I dati sono stati elaborati con l'utilizzo di software `Open Source`. Favoriamo lo sviluppo, la diffusione e la tutela del software libero e la diffusione degli ***Open Data***.<BR>
 Con il termine Open Data si fa riferimento ad alcuni tipi di dati (informazioni, dati numerici, ecc.) che possono essere liberamente utilizzati, riutilizzati e redistribuiti, secondo le indicazioni presenti nella licenza d’uso.<BR>
 <BR>
-Se stai visualizzando questo repository su un dispositivo mobile per espandere la lista dei files disponibili clicca su "View code".
+Se stai visualizzando questo repository su un dispositivo mobile per espandere la lista dei files disponibili fai tap su "View code".
 <BR><BR>
 
 ## Licenza ##
