@@ -1,5 +1,5 @@
 
-# Andamento dei contagi giornalieri<BR> nel comune di Cittanova, dal 2 novembre 2020 al 15 settembre 2021 # 
+# Andamento dei contagi giornalieri<BR> nel comune di Cittanova, dal 2 novembre 2020 al 13 settembre 2021 # 
 
 ## Ubicazione ##
 
