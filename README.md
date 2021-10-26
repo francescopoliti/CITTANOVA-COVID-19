@@ -13,7 +13,7 @@ Elaborazione dati: [ing. Francesco Politi](https://www.cittanovaonline.it/france
 
 Inizio decorrenza dati: 2 novembre 2020
   
-Fine decorrenza dati: 13 settembre 2020
+Fine decorrenza dati: 13 settembre 2021
 
 Agente Patogeno: Covid-19
 
