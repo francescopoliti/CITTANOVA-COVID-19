@@ -19,7 +19,7 @@ Agente Patogeno: Covid-19
 ## Struttura dei dati ##
 
 Nome del campo | Descrizione  
--------------- | ----------- | ------- 
+-------------- | -----------  
 Positivi Tampone Molecolare | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone molecolare 
 Positivi Tampone Antigenico | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone antigenico
 Guariti | Numero totale dei soggetti guariti fino alla data del report
