@@ -81,6 +81,10 @@ Questo file è una immagine raster, con estensione png, che rappresenta, mediant
 ### File `Cittanova_variazioni_covid-19.png` ###
 
 Questo file è una immagine raster, con estensione png, che rappresenta mediante grafici, il riepilogo complessivo dei dati divulgati, dal 2 novembre 2020 fino alla data dell'ultimo report quotidiano pubblicato.
+  
+### Cartella `Aggiornamenti Recenti` ###
+  
+Questa cartella contiene i diagrammi aggiornati agli ultimi report diramati in data successiva al 13 settembre 2021.
 <BR><BR>
 _______
 <BR>
