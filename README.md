@@ -82,7 +82,7 @@ Questo file è una immagine raster, con estensione png, che rappresenta mediante
   
 ### Cartella `Aggiornamenti_Recenti` ###
   
-Questa cartella contiene i grafici del riepilogo complessivo dei dati, dal 2 novembre 2021 e nell'ultimo periodo, aggiornati agli ultimi report diramati, dal Comune di
+Questa cartella contiene i grafici del riepilogo complessivo dei dati, dal 2 novembre 2021 e quelli dell'ultimo periodo, aggiornati agli ultimi report diramati, dal Comune di
 Cittanova, in data successiva al 13 settembre 2021.
 <BR><BR>
 _______
