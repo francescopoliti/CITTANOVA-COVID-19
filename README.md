@@ -7,7 +7,7 @@
 
 ## Dati ##
 
-Fonte Dati: [Comune di Cittanova](https://www.comune.cittanova.rc.it/)
+Fonte Dati: [Comune di Cittanova](https://www.comune.cittanova.rc.it/) , [Pagina Facebook](https://www.facebook.com/CittanovaGentile/)
 
 Elaborazione dati: [ing. Francesco Politi](https://www.cittanovaonline.it/francescopoliti/)
 
