@@ -18,20 +18,27 @@ Agente Patogeno: Covid-19
 
 ## Struttura dei dati ##
 
-Nome del campo | Descrizione  
--------------- | -----------  
-Positivi Tampone Molecolare | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone molecolare 
-Positivi Tampone Antigenico | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone antigenico
-Guariti | Numero totale dei soggetti guariti fino alla data del report
-Deceduti | Numero totale dei soggetti deceduti fino alla data del report
-Attualmente Positivi | Numero totale dei soggetti ancora positivi alla data del report
-Totale | Numero totale dei soggetti contagiati dal Covid-19 fino alla data del report
+### File `REPORT_GIORNALIERI_COVID-19.csv` ###
+
+Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19, diramati dal Comune di Cittanova, Città Metropolitana di Reggio Calabria.<BR>
+
+Nome del campo | Descrizione | Formato 
+-------------- | ----------- | ------- 
+Data | Data del report | DD/MM/YYYY 
+Positivi Tampone Molecolare | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone molecolare | Numero intero 
+Positivi Tampone Antigenico | Numero totale dei soggetti che risultano, alla data del report, positivi al tampone antigenico | Numero intero
+Guariti | Numero totale dei soggetti guariti fino alla data del report | Numero intero
+Deceduti | Numero totale dei soggetti deceduti fino alla data del report | Numero intero
+Attualmente Positivi | Numero totale dei soggetti ancora positivi alla data del report | Numero intero
+Totale | Numero totale dei soggetti contagiati dal Covid-19 fino alla data del report | Numero intero
+Nuovi Positivi | Numero di nuovi casi registrati quotidianamente | Numero intero
 
 ______
 Il campo `Attualmente positivi` comprende sia i soggetti che sono risultati positivi al tampone molecolare che quelli risultati positivi al tampone antigenico.
 _______
 
-
+- separatore di campo: `,`
+- encoding: `UTF-8`
 <BR><BR>
 
 ## Files ##
