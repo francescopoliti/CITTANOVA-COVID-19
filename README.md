@@ -19,7 +19,7 @@ Agente Patogeno: Covid-19
 
 ### File `REPORT_GIORNALIERI_COVID-19.csv` ###
 
-Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19, diramati dal Comune di Cittanova, Città Metropolitana di Reggio Calabria dal 2 novembre 2020 al 15 settembre 2021 (i dati del periodo successivo sono disponibili nella cartella "Aggiornamenti_Recenti".<BR>
+Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19, diramati dal Comune di Cittanova, Città Metropolitana di Reggio Calabria dal 2 novembre 2020 al 15 settembre 2021 (i dati del periodo successivo sono disponibili nella cartella "Aggiornamenti_Recenti").<BR>
 
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
@@ -78,7 +78,7 @@ Questo file è una immagine raster, con estensione png, che rappresenta, mediant
 
 ### File `Cittanova_variazioni_covid-19.png` ###
 
-Questo file è una immagine raster, con estensione png, che rappresenta mediante grafici, il riepilogo complessivo dei dati divulgati, dal 2 novembre 2020 al 15 settembre 2021 (i dati del periodo successivo sono disponibili nella cartella "Aggiornamenti_Recenti"..
+Questo file è una immagine raster, con estensione png, che rappresenta mediante grafici, il riepilogo complessivo dei dati divulgati, dal 2 novembre 2020 al 15 settembre 2021 (i dati del periodo successivo sono disponibili nella cartella "Aggiornamenti_Recenti").
   
 ### Cartella `Aggiornamenti_Recenti` ###
   
