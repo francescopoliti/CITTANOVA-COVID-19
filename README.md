@@ -19,7 +19,7 @@ Agente Patogeno: Covid-19
 
 ### File `REPORT_GIORNALIERI_COVID-19.csv` ###
 
-Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19, diramati dal Comune di Cittanova, Città Metropolitana di Reggio Calabria.<BR>
+Questo file riassume i dati contenuti nei report quotidiani, Emergenza Covid-19, diramati dal Comune di Cittanova, Città Metropolitana di Reggio Calabria dal 2 novembre 2020 al 15 settembre 2021 (i dati del periodo successivo sono disponibili nella cartella "Aggiornamenti_Recenti".<BR>
 
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
@@ -42,7 +42,7 @@ _______
 ### File `NUOVI_CASI_E_INCIDENZA_SETTIMANALE.csv` ###
 
 Questo file riassume l'indice di incidenza settimanale standardizzato per 100.000 abitanti = (N. totale di casi degli ultimi 7 giorni / Popolazione residente) x 100.000.<BR><BR>
-Popolazione residente: 10.028 (popolazione residente al 1° Gennaio 2020, dato ufficiale ISTAT)<BR>
+Popolazione residente: 10.028 (popolazione residente al 1° Gennaio 2020, dato ufficiale ISTAT) dall' 8 novembre 2020 al 13 settembre 2021<BR>
 
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
@@ -66,7 +66,7 @@ Questo file è una immagine raster, con estensione png, che rappresenta l'andame
 
 ### File `Nuovi_casi_Cittanova_variazioni_covid-19.png` ###
 
-Questo file è una immagine raster, con estensione png, che rappresenta graficamente l'incremento giornaliero del totale dei positivi, ai tamponi molecolari e antigenici, dal 2 novembre 2020.
+Questo file è una immagine raster, con estensione png, che rappresenta graficamente l'incremento giornaliero del totale dei positivi, ai tamponi molecolari e antigenici, dal 2 novembre 2020 al 13 settembre 2021.
 
 ### File `Cittanova_variazioni_covid-19-second_wave.png` ###
 
@@ -78,7 +78,7 @@ Questo file è una immagine raster, con estensione png, che rappresenta, mediant
 
 ### File `Cittanova_variazioni_covid-19.png` ###
 
-Questo file è una immagine raster, con estensione png, che rappresenta mediante grafici, il riepilogo complessivo dei dati divulgati, dal 2 novembre 2020 fino alla data dell'ultimo report quotidiano pubblicato.
+Questo file è una immagine raster, con estensione png, che rappresenta mediante grafici, il riepilogo complessivo dei dati divulgati, dal 2 novembre 2020 al 15 settembre 2021 (i dati del periodo successivo sono disponibili nella cartella "Aggiornamenti_Recenti"..
   
 ### Cartella `Aggiornamenti_Recenti` ###
   
