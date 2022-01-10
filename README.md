@@ -41,8 +41,8 @@ _______
 
 ### File `NUOVI_CASI_E_INCIDENZA_SETTIMANALE.csv` ###
 
-Questo file riassume l'indice di incidenza settimanale standardizzato per 100.000 abitanti = (N. totale di casi degli ultimi 7 giorni / Popolazione residente) x 100.000.<BR><BR>
-Popolazione residente: 10.028 (popolazione residente al 1° Gennaio 2020, dato ufficiale ISTAT) dall' 8 novembre 2020 al 13 settembre 2021<BR>
+Questo file riassume l'indice di incidenza settimanale standardizzato per 100.000 abitanti = (N. totale di casi degli ultimi 7 giorni / Popolazione residente) x 100.000, dall' 8 novembre 2020 al 13 settembre 2021.<BR><BR>
+Popolazione residente: 10.028 (popolazione residente al 1° Gennaio 2020, dato ufficiale ISTAT)<BR>
 
 Nome del campo | Descrizione | Formato 
 -------------- | ----------- | ------- 
