@@ -1,5 +1,5 @@
 
-# Andamento dei contagi giornalieri<BR> nel comune di Cittanova, dal 2 novembre 2020. # 
+# Andamento dei contagi giornalieri<BR> nel comune di Cittanova, dal 26 settembre 2021. # 
 
 ## Ubicazione ##
 
@@ -11,7 +11,7 @@ Fonte Dati: [Comune di Cittanova](https://www.comune.cittanova.rc.it/) , [Pagina
 
 Elaborazione dati: [ing. Francesco Politi](https://www.cittanovaonline.it/francescopoliti/)
 
-Inizio decorrenza dati: 2 novembre 2020
+Inizio decorrenza dati: 26 settembre 2021
 
 
 Agente Patogeno: Covid-19
