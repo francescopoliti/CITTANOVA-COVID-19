@@ -62,7 +62,7 @@ Questo file è una immagine raster, con estensione png, che rappresenta l'andame
 
 ### File `Last_phase_Cittanova_variazioni_covid-19.png` ###
 
-Questo file è una immagine raster, con estensione png, che rappresenta l'andamento del contagio da Covid-19, mediante grafici provvisti di etichette, nell'ultimo periodo.
+Questo file è una immagine raster, con estensione png, che rappresenta l'andamento del contagio da Covid-19, mediante grafici provvisti di etichette, dall'8 giugno 2021 al 6 settembre 2021.
 
 ### File `Nuovi_casi_Cittanova_variazioni_covid-19.png` ###
 
