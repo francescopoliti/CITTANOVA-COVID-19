@@ -7,7 +7,7 @@
 
 ## Zona ##
   
-E' stata istituita la ‘zona arancione’ nel comunl di Cittanova per un periodo di 10 giorni, dal 10 gennaio 2022 e fino a tutto 19 gennaio 2022. 
+E' stata istituita la ‘zona arancione’ nel comune di Cittanova per un periodo di 10 giorni, dal 10 gennaio 2022 e fino a tutto 19 gennaio 2022. 
   
 ## Dati ##
 
