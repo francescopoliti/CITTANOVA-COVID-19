@@ -5,6 +5,10 @@
 
 [Cittanova](https://www.cittanovaonline.it/) è un comune calabrese di 9.820 abitanti (Dati Provvisori Bilancio Demografico ISTAT, 31 ottobre 2021), compreso nella Città Metropolitana di Reggio Calabria. 
 
+## Zona ##
+  
+E' stata istituita la ‘zona arancione’ nel comunl di Cittanova per un periodo di 10 giorni, dal 10 gennaio 2022 e fino a tutto 19 gennaio 2022. 
+  
 ## Dati ##
 
 Fonte Dati: [Comune di Cittanova](https://www.comune.cittanova.rc.it/) , [Pagina Facebook](https://www.facebook.com/CittanovaGentile/)
