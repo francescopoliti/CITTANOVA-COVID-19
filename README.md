@@ -3,7 +3,7 @@
 
 ## Ubicazione ##
 
-[Cittanova](https://www.cittanovaonline.it/) è un comune calabrese di 9.730 abitanti (Dati Provvisori Bilancio Demografico ISTAT, 31 luglio 2022), compreso nella Città Metropolitana di Reggio Calabria. 
+[Cittanova](https://www.cittanovaonline.it/) è un comune calabrese di 9.742 abitanti (Dati Provvisori Bilancio Demografico ISTAT, 31 agosto 2022), compreso nella Città Metropolitana di Reggio Calabria. 
   
 ## Dati ##
 
